@@ -101,7 +101,7 @@ def jam(): # Don't Remove Code !!!!
             countdown(120) # Jangan Diubah !!!!
     except KeyboardInterrupt:7
        
-        tanya()
+        
 
 def normal(): # Don't Remove Code !!!!
         os.system("clear")
