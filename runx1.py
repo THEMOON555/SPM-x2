@@ -129,13 +129,13 @@ def normal(): # Don't Remove Code !!!!
 def banner():
     ip=requests.get('https://api.ipify.org').text
     autoketik (f"""
-             {merah}╔╗ {putih}┬─┐┬ ┬┌┬┐┌─┐┬        {merah}╔═╗{putih}┌┬┐┌─┐
-             {merah}╠╩╗{putih}├┬┘│ │ │ ├─┤│  {R} ───  {merah}╚═╗{putih}│││└─┐
-             {merah}╚═╝{putih}┴└─└─┘ ┴ ┴ ┴┴─┘      {biru}╚═╝{putih}┴ ┴└─┘
+             {biru}╔╗ {putih}┬─┐┬ ┬┌┬┐┌─┐┬        {biru}╔═╗{putih}┌┬┐┌─┐
+             {biru}╠╩╗{putih}├┬┘│ │ │ ├─┤│        {biru}╚═╗{putih}│││└─┐
+             {Ungu}╚═╝{putih}┴└─└─┘ ┴ ┴ ┴┴─┘      {biru}╚═╝{putih}┴ ┴└─┘
      \033[1;0m──────────────────────────┬─────────────────────────
   \033[1;0m┌────────────────────────────┼───────────────────────────┐
-  {W}│ Creator{R}:{W}DEMON                  │ Version {R}:{G} 3.0{W}             │
-  {W}│ Github{R}:{G}github.com/THEMOON555{W}│ {W}Your Ip {R}:{Y} {ip}   {W}│
+  {W}│ Creator{R}:{W}DEMON             │ Version {R}:{G} 3.0{W}             │
+  {W}│Github{R}:{G}github.com/THEMOON555{W}│ {W}Your Ip {R}:{Y} {ip}   {W}│
   {W}│ Team{R}:{W}Executed {biru}Team         {W}│ Perfect Brutal {biru}Sms Tools  {W}│
   └────────────────────────────┼───────────────────────────┘""")
 
