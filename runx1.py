@@ -129,9 +129,9 @@ def normal(): # Don't Remove Code !!!!
 def banner():
     ip=requests.get('https://api.ipify.org').text
     autoketik (f"""
-             {biru}╔╗ {putih}┬─┐┬ ┬┌┬┐┌─┐┬        {biru}╔═╗{putih}┌┬┐┌─┐
-             {biru}╠╩╗{putih}├┬┘│ │ │ ├─┤│        {biru}╚═╗{putih}│││└─┐
-             {Ungu}╚═╝{putih}┴└─└─┘ ┴ ┴ ┴┴─┘      {biru}╚═╝{putih}┴ ┴└─┘
+             {biru}╔╗ {putih}┬─┐┬ ┬┌┬┐┌─┐┬        {ungu}╔═╗{putih}┌┬┐┌─┐
+             {biru}╠╩╗{putih}├┬┘│ │ │ ├─┤│        {ungu}╚═╗{putih}│││└─┐
+             {biru}╚═╝{putih}┴└─└─┘ ┴ ┴ ┴┴─┘      {ungu}╚═╝{putih}┴ ┴└─┘
      \033[1;0m──────────────────────────┬─────────────────────────
   \033[1;0m┌────────────────────────────┼───────────────────────────┐
   {W}│ Creator{R}:{W}DEMON             │ Version {R}:{G} 3.0{W}             │
