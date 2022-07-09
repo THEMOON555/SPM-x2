@@ -100,7 +100,7 @@ def jam(): # Don't Remove Code !!!!
             autoketik(f"{W}[{G}✓{W}] Succsess send to Spam")
             countdown(120) # Jangan Diubah !!!!
     except KeyboardInterrupt:7
-        print (""")
+       
         tanya()
 
 def normal(): # Don't Remove Code !!!!
